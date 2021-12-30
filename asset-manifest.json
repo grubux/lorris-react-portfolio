@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/lorris-react-portfolio/static/css/main.4588be86.chunk.css",
-    "main.js": "/lorris-react-portfolio/static/js/main.4a839280.chunk.js",
-    "main.js.map": "/lorris-react-portfolio/static/js/main.4a839280.chunk.js.map",
-    "runtime-main.js": "/lorris-react-portfolio/static/js/runtime-main.9b35dc73.js",
-    "runtime-main.js.map": "/lorris-react-portfolio/static/js/runtime-main.9b35dc73.js.map",
+    "main.js": "/lorris-react-portfolio/static/js/main.674a93a3.chunk.js",
+    "main.js.map": "/lorris-react-portfolio/static/js/main.674a93a3.chunk.js.map",
+    "runtime-main.js": "/lorris-react-portfolio/static/js/runtime-main.84963664.js",
+    "runtime-main.js.map": "/lorris-react-portfolio/static/js/runtime-main.84963664.js.map",
     "static/css/2.9c389199.chunk.css": "/lorris-react-portfolio/static/css/2.9c389199.chunk.css",
-    "static/js/2.d77ee59d.chunk.js": "/lorris-react-portfolio/static/js/2.d77ee59d.chunk.js",
-    "static/js/2.d77ee59d.chunk.js.map": "/lorris-react-portfolio/static/js/2.d77ee59d.chunk.js.map",
+    "static/js/2.b8fe9fb6.chunk.js": "/lorris-react-portfolio/static/js/2.b8fe9fb6.chunk.js",
+    "static/js/2.b8fe9fb6.chunk.js.map": "/lorris-react-portfolio/static/js/2.b8fe9fb6.chunk.js.map",
     "index.html": "/lorris-react-portfolio/index.html",
-    "precache-manifest.add5ec8056094f20b18ffe7f365ae535.js": "/lorris-react-portfolio/precache-manifest.add5ec8056094f20b18ffe7f365ae535.js",
+    "precache-manifest.81b064b5d021444cf576a6b6c37298a9.js": "/lorris-react-portfolio/precache-manifest.81b064b5d021444cf576a6b6c37298a9.js",
     "service-worker.js": "/lorris-react-portfolio/service-worker.js",
     "static/css/2.9c389199.chunk.css.map": "/lorris-react-portfolio/static/css/2.9c389199.chunk.css.map",
     "static/css/main.4588be86.chunk.css.map": "/lorris-react-portfolio/static/css/main.4588be86.chunk.css.map",
-    "static/js/2.d77ee59d.chunk.js.LICENSE.txt": "/lorris-react-portfolio/static/js/2.d77ee59d.chunk.js.LICENSE.txt",
+    "static/js/2.b8fe9fb6.chunk.js.LICENSE.txt": "/lorris-react-portfolio/static/js/2.b8fe9fb6.chunk.js.LICENSE.txt",
     "static/media/mainLogo.png": "/lorris-react-portfolio/static/media/mainLogo.63270399.png"
   },
   "entrypoints": [
-    "static/js/runtime-main.9b35dc73.js",
+    "static/js/runtime-main.84963664.js",
     "static/css/2.9c389199.chunk.css",
-    "static/js/2.d77ee59d.chunk.js",
+    "static/js/2.b8fe9fb6.chunk.js",
     "static/css/main.4588be86.chunk.css",
-    "static/js/main.4a839280.chunk.js"
+    "static/js/main.674a93a3.chunk.js"
   ]
 }
