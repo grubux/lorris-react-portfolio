@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/lorris-react-portfolio/static/css/main.4588be86.chunk.css",
-    "main.js": "/lorris-react-portfolio/static/js/main.37606ff3.chunk.js",
-    "main.js.map": "/lorris-react-portfolio/static/js/main.37606ff3.chunk.js.map",
+    "main.js": "/lorris-react-portfolio/static/js/main.210ea8f2.chunk.js",
+    "main.js.map": "/lorris-react-portfolio/static/js/main.210ea8f2.chunk.js.map",
     "runtime-main.js": "/lorris-react-portfolio/static/js/runtime-main.84963664.js",
     "runtime-main.js.map": "/lorris-react-portfolio/static/js/runtime-main.84963664.js.map",
     "static/css/2.9c389199.chunk.css": "/lorris-react-portfolio/static/css/2.9c389199.chunk.css",
     "static/js/2.6ef1d87a.chunk.js": "/lorris-react-portfolio/static/js/2.6ef1d87a.chunk.js",
     "static/js/2.6ef1d87a.chunk.js.map": "/lorris-react-portfolio/static/js/2.6ef1d87a.chunk.js.map",
     "index.html": "/lorris-react-portfolio/index.html",
-    "precache-manifest.1095007eb676a13f75a684c896d423a7.js": "/lorris-react-portfolio/precache-manifest.1095007eb676a13f75a684c896d423a7.js",
+    "precache-manifest.4664a889c5ebc252636ceae86e74768a.js": "/lorris-react-portfolio/precache-manifest.4664a889c5ebc252636ceae86e74768a.js",
     "service-worker.js": "/lorris-react-portfolio/service-worker.js",
     "static/css/2.9c389199.chunk.css.map": "/lorris-react-portfolio/static/css/2.9c389199.chunk.css.map",
     "static/css/main.4588be86.chunk.css.map": "/lorris-react-portfolio/static/css/main.4588be86.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.9c389199.chunk.css",
     "static/js/2.6ef1d87a.chunk.js",
     "static/css/main.4588be86.chunk.css",
-    "static/js/main.37606ff3.chunk.js"
+    "static/js/main.210ea8f2.chunk.js"
   ]
 }
