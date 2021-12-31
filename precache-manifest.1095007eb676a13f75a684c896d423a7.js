@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "5cd00d3073d66a524d38e33ade43ae6a",
+    "revision": "a93f62d33b591d87f010fd9fde3fa1fa",
     "url": "/lorris-react-portfolio/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lorris-react-portfolio/static/css/2.9c389199.chunk.css"
   },
   {
-    "revision": "a9ef543f741954a17f96",
+    "revision": "37ca6db897d8a6f679b4",
     "url": "/lorris-react-portfolio/static/css/main.4588be86.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/lorris-react-portfolio/static/js/2.6ef1d87a.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "a9ef543f741954a17f96",
-    "url": "/lorris-react-portfolio/static/js/main.ef921d4b.chunk.js"
+    "revision": "37ca6db897d8a6f679b4",
+    "url": "/lorris-react-portfolio/static/js/main.37606ff3.chunk.js"
   },
   {
     "revision": "f5470a5bb6dddf7bbf8f",
