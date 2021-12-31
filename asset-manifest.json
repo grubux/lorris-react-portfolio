@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/lorris-react-portfolio/static/css/main.4588be86.chunk.css",
-    "main.js": "/lorris-react-portfolio/static/js/main.0f630a37.chunk.js",
-    "main.js.map": "/lorris-react-portfolio/static/js/main.0f630a37.chunk.js.map",
+    "main.js": "/lorris-react-portfolio/static/js/main.ef921d4b.chunk.js",
+    "main.js.map": "/lorris-react-portfolio/static/js/main.ef921d4b.chunk.js.map",
     "runtime-main.js": "/lorris-react-portfolio/static/js/runtime-main.84963664.js",
     "runtime-main.js.map": "/lorris-react-portfolio/static/js/runtime-main.84963664.js.map",
     "static/css/2.9c389199.chunk.css": "/lorris-react-portfolio/static/css/2.9c389199.chunk.css",
-    "static/js/2.b8fe9fb6.chunk.js": "/lorris-react-portfolio/static/js/2.b8fe9fb6.chunk.js",
-    "static/js/2.b8fe9fb6.chunk.js.map": "/lorris-react-portfolio/static/js/2.b8fe9fb6.chunk.js.map",
+    "static/js/2.6ef1d87a.chunk.js": "/lorris-react-portfolio/static/js/2.6ef1d87a.chunk.js",
+    "static/js/2.6ef1d87a.chunk.js.map": "/lorris-react-portfolio/static/js/2.6ef1d87a.chunk.js.map",
     "index.html": "/lorris-react-portfolio/index.html",
-    "precache-manifest.96d9036b6f4a476ad8a22c88e311b11a.js": "/lorris-react-portfolio/precache-manifest.96d9036b6f4a476ad8a22c88e311b11a.js",
+    "precache-manifest.3c44cc8f0154068fee1e6b641279aec7.js": "/lorris-react-portfolio/precache-manifest.3c44cc8f0154068fee1e6b641279aec7.js",
     "service-worker.js": "/lorris-react-portfolio/service-worker.js",
     "static/css/2.9c389199.chunk.css.map": "/lorris-react-portfolio/static/css/2.9c389199.chunk.css.map",
     "static/css/main.4588be86.chunk.css.map": "/lorris-react-portfolio/static/css/main.4588be86.chunk.css.map",
-    "static/js/2.b8fe9fb6.chunk.js.LICENSE.txt": "/lorris-react-portfolio/static/js/2.b8fe9fb6.chunk.js.LICENSE.txt",
+    "static/js/2.6ef1d87a.chunk.js.LICENSE.txt": "/lorris-react-portfolio/static/js/2.6ef1d87a.chunk.js.LICENSE.txt",
     "static/media/mainLogo.png": "/lorris-react-portfolio/static/media/mainLogo.63270399.png"
   },
   "entrypoints": [
     "static/js/runtime-main.84963664.js",
     "static/css/2.9c389199.chunk.css",
-    "static/js/2.b8fe9fb6.chunk.js",
+    "static/js/2.6ef1d87a.chunk.js",
     "static/css/main.4588be86.chunk.css",
-    "static/js/main.0f630a37.chunk.js"
+    "static/js/main.ef921d4b.chunk.js"
   ]
 }
